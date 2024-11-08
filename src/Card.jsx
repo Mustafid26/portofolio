@@ -14,7 +14,7 @@ const Card= () => {
                             </div>
                             <div className="bg-base-200 flex justify-center">
                                 <img
-                                src="/image.png"
+                                src="/image.svg"
                                 alt="IMG" />
                             </div>
                         </div>
@@ -37,7 +37,7 @@ const Card= () => {
                             </div>
                             <div className="bg-base-200 flex justify-center">
                                 <img
-                                src="/image1.png"
+                                src="/image1.svg"
                                 alt="IMG" />
                             </div>
                         </div>
@@ -60,7 +60,7 @@ const Card= () => {
                             </div>
                             <div className="bg-base-200 flex justify-center">
                                 <img
-                                src="/image2.png"
+                                src="/image2.svg"
                                 alt="IMG" />
                             </div>
                         </div>
@@ -73,7 +73,7 @@ const Card= () => {
                 <div className="card bg-base-100 w-96 shadow-xl">
                     <figure>
                         <img
-                        src="/image3.png"
+                        src="/image3.svg"
                         alt="IMG" />
                     </figure>
                     <div className="card-body">
@@ -89,7 +89,7 @@ const Card= () => {
                 <div className="card bg-base-100 w-96 shadow-xl">
                     <figure>
                         <img
-                        src="/image4.png"
+                        src="/image4.svg"
                         alt="IMG" />
                     </figure>
                     <div className="card-body">

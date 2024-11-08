@@ -6,8 +6,8 @@ import AOS from './AOS.jsx';
 function Hero() {
     const [count, setCount] = useState(0);  
     const images = [
-        '/gwe4.png',
-        '/gwe5.png'
+        '/gwe4.svg',
+        '/gwe5.svg'
     ];
     const [currentIndex, setCurrentIndex] = useState(0);
 
