@@ -73,7 +73,7 @@ const Card= () => {
                 <div className="card bg-base-100 w-96 shadow-xl">
                     <figure>
                         <img
-                        src="/image3.svg"
+                        src="/image3.png"
                         alt="IMG" />
                     </figure>
                     <div className="card-body">
@@ -89,7 +89,7 @@ const Card= () => {
                 <div className="card bg-base-100 w-96 shadow-xl">
                     <figure>
                         <img
-                        src="/image4.svg"
+                        src="/image4.png"
                         alt="IMG" />
                     </figure>
                     <div className="card-body">
