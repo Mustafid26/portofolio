@@ -5,11 +5,6 @@ const EducationDetails = () => {
         <div>
             <div className="bg-base-200 py-5">
                 <h1 className="text-3xl text-center px-5 py-5" data-aos="fade-up">Education Details</h1>
-                <div className="lines">
-                    <div className="line"></div>
-                    <div className="line"></div>
-                    <div className="line"></div>
-                </div>
                 <div className="inset-x-0 top-5 mb-5" data-aos="fade-up">
                     <ul className="timeline timeline-snap-icon max-md:timeline-compact timeline-vertical px-5 mt-5">
                         <li>

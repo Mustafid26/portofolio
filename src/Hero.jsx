@@ -40,7 +40,7 @@ function Hero() {
                     <div className="line"></div>
                     <div className="line"></div>
                 </div>
-                <div className="hero-content flex-col lg:flex-row-reverse">
+                <div className="hero-content flex-col lg:flex-row-reverse mt-[2rem]">
                     <img
                         src={images[currentIndex]}
                         className="rounded-lg img-hero" 
