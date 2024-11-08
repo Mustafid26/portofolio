@@ -34,7 +34,7 @@ function Hero() {
 
     return (
         <div>
-            <div className="hero bg-base-200 px-5 mt-[5rem]" data-aos="fade-up">
+            <div className="hero bg-base-200 px-5" data-aos="fade-up">
                 <div className="lines">
                     <div className="line"></div>
                     <div className="line"></div>
