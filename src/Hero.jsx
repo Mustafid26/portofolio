@@ -48,7 +48,7 @@ function Hero() {
                         alt="Hero"
                     />
                     <div>
-                        <h1 className="text-7xl font-bold" data-aos="fade-right">
+                        <h1 className="text-hero font-bold" data-aos="fade-right">
                             Hello, I'm
                             <span>
                                 <Typewriter

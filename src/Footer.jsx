@@ -22,10 +22,10 @@ const TechStack = () => {
                     <p>Copyright © {new Date().getFullYear()} - All right reserved</p>
                 </aside>
                 <nav class="grid-flow-col gap-4 md:place-self-center md:justify-self-end">
-                    <a>
-                    <FontAwesomeIcon icon={faGithub} size="3x"/>
+                    <a href="https://github.com/Mustafid26" target="_blank">
+                        <FontAwesomeIcon icon={faGithub} size="3x"/>
                     </a>
-                    <a>
+                    <a href="https://www.linkedin.com/in/kaisaalanaa/" target="_blank">
                         <FontAwesomeIcon icon={faLinkedin} size="3x"/>
                     </a>
                 </nav>
