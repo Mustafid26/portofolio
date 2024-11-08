@@ -1,0 +1,30 @@
+html{
+    scroll-behavior: smooth;
+}
+.responsive{
+    position: relative;
+    z-index: 10;
+}
+@media (min-width: 768px) {
+    .responsive{
+        display: none;
+    }
+}
+@media (max-width: 768px) {
+    .desktop{
+        display: none;
+    }
+    .responsive {
+        animation: zoom-in 0.3s forwards;
+    }
+}
+@keyframes zoom-in {
+    0% {
+        transform: scale(0.8);
+        opacity: 0;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
